@@ -1,0 +1,2 @@
+# fastcreatepage
+fast create page
